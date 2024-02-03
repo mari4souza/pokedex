@@ -1,5 +1,2 @@
 # pokedex
 Em produção.
-
-
-
